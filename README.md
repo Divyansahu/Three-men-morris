@@ -1,2 +1,2 @@
-# Three-men-morris
-html, css, java script, nodejs
+# Three-mens-morris game
+html, css, java script, nodejs,socketio
